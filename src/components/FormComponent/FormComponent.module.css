@@ -1,0 +1,40 @@
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.input-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-parent label {
+  margin-bottom: 10px;
+}
+
+.input-parent input {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 0 10px;
+}
+
+.form button {
+  width: 16%;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(18, 223, 18);
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 24px;
+}

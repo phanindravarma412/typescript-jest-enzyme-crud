@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User form component is form is rendering or not render 1`] = `ShallowWrapper {}`;
+
+exports[`form component is form component was rendered or not 1`] = `ShallowWrapper {}`;
